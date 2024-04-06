@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148198415481",
+    "project_id": "cloudtask-d261c",
+    "storage_bucket": "cloudtask-d261c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148198415481:android:f974f0db4fc3d59cec08a8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTbz9nY9_C8Pn6DpsqYAo8f5G2OFn1K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

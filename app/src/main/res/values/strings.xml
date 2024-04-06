@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cloud_task_s3">Cloud Task S3!</string>
+    <string name="push_notification">Push notification</string>
+</resources>
